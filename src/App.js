@@ -4,7 +4,6 @@ import './App.css';
 import {Header} from './components/Header' ;
 import {Balance} from './components/Balance' ;
 import {IncomeExpense} from './components/IncomeExpense' ;
-import {TransactionHistory} from './components/TransactionHistory' ;
 import {AddTransaction} from './components/AddTransaction' ;
 import {TransactionList} from './components/TransactionList' ;
 
